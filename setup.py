@@ -35,7 +35,7 @@ setup(
     keywords=["VATUSA Core API Client"],
     python_requires=">=3.9",
     install_requires=REQUIRES,
-    packages=find_packages(exclude=["test", "tests"]),
+    packages=['vatusa_core'],
     include_package_data=True,
     long_description="""\
        # noqa: E501
