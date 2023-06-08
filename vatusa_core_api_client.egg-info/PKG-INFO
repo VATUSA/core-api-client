@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: vatusa-core-api-client
+Version: 1.0.1
+Summary: VATUSA Core API Client
+Home-page: 
+Author: Jon
+Author-email: tech@vatusa.net
+Keywords: VATUSA Core API Client
+Requires-Python: >=3.9
+
+       # noqa: E501
+    

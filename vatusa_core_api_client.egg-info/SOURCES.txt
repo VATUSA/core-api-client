@@ -1,0 +1,16 @@
+setup.cfg
+setup.py
+vatusa_core/__init__.py
+vatusa_core/api.py
+vatusa_core/config.py
+vatusa_core/transfer.py
+vatusa_core/models/__init__.py
+vatusa_core/models/controller.py
+vatusa_core/models/generic.py
+vatusa_core/models/training_record.py
+vatusa_core/models/transfer.py
+vatusa_core_api_client.egg-info/PKG-INFO
+vatusa_core_api_client.egg-info/SOURCES.txt
+vatusa_core_api_client.egg-info/dependency_links.txt
+vatusa_core_api_client.egg-info/requires.txt
+vatusa_core_api_client.egg-info/top_level.txt

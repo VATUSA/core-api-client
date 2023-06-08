@@ -20,8 +20,9 @@ VERSION = "1.0.1"
 # http://pypi.python.org/pypi/setuptools
 
 REQUIRES = [
-  "pydantic==1.10.2",
-  "requests==2.28.1",
+    "pydantic==1.10.2",
+    "requests==2.28.1",
+    "aiohttp==3.8.4",
 ]
 
 setup(
