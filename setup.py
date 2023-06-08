@@ -33,7 +33,7 @@ setup(
     author_email="tech@vatusa.net",
     url="",
     keywords=["VATUSA Core API Client"],
-    python_requires=">=3.9",
+    python_requires=">=3.10",
     install_requires=REQUIRES,
     packages=['vatusa_core'],
     include_package_data=True,
