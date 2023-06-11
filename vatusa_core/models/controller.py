@@ -1,7 +1,4 @@
 from __future__ import annotations
-
-from typing import Optional
-
 import pydantic
 
 
@@ -15,7 +12,7 @@ class Controller(pydantic.BaseModel):
     rating: int
     rating_short: str
     rating_long: str
-    discord_id: Optional[str]
+    discord_id: str | None
     in_division: bool
     receive_broadcast_emails: bool
     prevent_staff_assignment: bool
